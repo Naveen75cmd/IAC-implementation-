@@ -1,0 +1,8 @@
+*.tfstate
+*.tfstate.*
+.terraform/
+terraform.tfvars
+*.retry
+*.log
+__pycache__/
+.vscode/
