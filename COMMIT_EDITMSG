@@ -1,0 +1,21 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .github/workflows/ci.yml
+#	new file:   .gitignore
+#	new file:   README.md
+#	new file:   ansible/hosts
+#	new file:   ansible/playbook.yml
+#	new file:   ansible/roles/common/handlers/main.yml
+#	new file:   ansible/roles/common/tasks/main.yml
+#	new file:   setup-guide.md
+#	new file:   terraform/main.tf
+#	new file:   terraform/outputs.tf
+#	new file:   terraform/variables.tf
+#
