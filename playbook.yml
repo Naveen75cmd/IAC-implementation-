@@ -1,0 +1,5 @@
+- name: Configure local VM
+  hosts: localhost
+  become: yes
+  roles:
+    - common
